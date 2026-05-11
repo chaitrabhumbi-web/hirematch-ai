@@ -1,0 +1,1079 @@
+[
+  {
+    "candidate_id": "CND003",
+    "name": "Sneha Iyer",
+    "skills": [
+      "Python",
+      "Keras",
+      "DAX",
+      "Scikit-learn",
+      "Git",
+      "Spark",
+      "SQL"
+    ],
+    "experience_years": 0,
+    "education": "B.Tech CSE",
+    "certifications": [
+      "Deep Learning AI"
+    ],
+    "projects": [
+      "Designed ETL pipeline for e-commerce data",
+      "Automated data extraction from PDFs",
+      "Performed sentiment analysis on Twitter data"
+    ]
+  },
+  {
+    "candidate_id": "CND039",
+    "name": "Riya Das",
+    "skills": [
+      "Git",
+      "A/B Testing",
+      "Keras",
+      "NLP",
+      "Spark",
+      "Selenium",
+      "SQL"
+    ],
+    "experience_years": 2,
+    "education": "B.Tech IT",
+    "certifications": [
+      "Deep Learning AI"
+    ],
+    "projects": [
+      "Built price prediction model for used cars",
+      "Automated data extraction from PDFs"
+    ]
+  },
+  {
+    "candidate_id": "CND026",
+    "name": "Vijay Kumar",
+    "skills": [
+      "Scikit-learn",
+      "Agile",
+      "CI/CD",
+      "Airflow",
+      "Python",
+      "PyTorch"
+    ],
+    "experience_years": 2,
+    "education": "MCA",
+    "certifications": [
+      "Deep Learning AI",
+      "AWS Cloud Practitioner"
+    ],
+    "projects": [
+      "Built price prediction model for used cars",
+      "Performed sentiment analysis on Twitter data",
+      "Automated data extraction from PDFs"
+    ]
+  },
+  {
+    "candidate_id": "CND001",
+    "name": "Priya Nair",
+    "skills": [
+      "A/B Testing",
+      "Excel",
+      "TensorFlow",
+      "Power BI",
+      "MATLAB",
+      "BigQuery",
+      "Mathematics",
+      "Keras",
+      "Python",
+      "SQL"
+    ],
+    "experience_years": 3,
+    "education": "BCA",
+    "certifications": [],
+    "projects": [
+      "Developed chatbot using Rasa and Python",
+      "Automated data extraction from PDFs"
+    ]
+  },
+  {
+    "candidate_id": "CND020",
+    "name": "Aakash Sharma",
+    "skills": [
+      "Spark",
+      "Django",
+      "Mixpanel",
+      "NLP",
+      "Python"
+    ],
+    "experience_years": 3,
+    "education": "B.Sc CS",
+    "certifications": [
+      "Google Data Analytics"
+    ],
+    "projects": [
+      "Performed sentiment analysis on Twitter data",
+      "Automated data extraction from PDFs",
+      "Created sales dashboard using Power BI"
+    ]
+  },
+  {
+    "candidate_id": "CND017",
+    "name": "Deepika Pillai",
+    "skills": [
+      "Excel",
+      "Transformers",
+      "NLP",
+      "Communication",
+      "Agile",
+      "TensorFlow",
+      "Mathematics",
+      "Python"
+    ],
+    "experience_years": 1,
+    "education": "MBA Tech",
+    "certifications": [
+      "Coursera ML Specialization"
+    ],
+    "projects": [
+      "Created sales dashboard using Power BI",
+      "Performed sentiment analysis on Twitter data",
+      "Developed chatbot using Rasa and Python"
+    ]
+  },
+  {
+    "candidate_id": "CND046",
+    "name": "Vijay Kumar",
+    "skills": [
+      "Java",
+      "PyTorch",
+      "Mixpanel",
+      "BigQuery",
+      "Django"
+    ],
+    "experience_years": 1,
+    "education": "BCA",
+    "certifications": [],
+    "projects": [
+      "Developed chatbot using Rasa and Python",
+      "Performed sentiment analysis on Twitter data"
+    ]
+  },
+  {
+    "candidate_id": "CND024",
+    "name": "Karthik Reddy",
+    "skills": [
+      "Keras",
+      "TensorFlow",
+      "Transformers",
+      "Tableau",
+      "Python"
+    ],
+    "experience_years": 1,
+    "education": "B.Tech CSE",
+    "certifications": [
+      "Deep Learning AI"
+    ],
+    "projects": [
+      "Built price prediction model for used cars"
+    ]
+  },
+  {
+    "candidate_id": "CND010",
+    "name": "Siddharth Rao",
+    "skills": [
+      "Mixpanel",
+      "R",
+      "Airflow",
+      "Communication",
+      "Django",
+      "Scikit-learn",
+      "REST APIs",
+      "Python",
+      "SQL"
+    ],
+    "experience_years": 3,
+    "education": "B.Sc CS",
+    "certifications": [
+      "Coursera ML Specialization",
+      "AWS Cloud Practitioner"
+    ],
+    "projects": [
+      "Automated data extraction from PDFs",
+      "Built price prediction model for used cars"
+    ]
+  },
+  {
+    "candidate_id": "CND045",
+    "name": "Ananya Singh",
+    "skills": [
+      "DAX",
+      "Power BI",
+      "Java"
+    ],
+    "experience_years": 3,
+    "education": "BCA",
+    "certifications": [
+      "Deep Learning AI"
+    ],
+    "projects": [
+      "Developed chatbot using Rasa and Python",
+      "Built price prediction model for used cars",
+      "Performed sentiment analysis on Twitter data"
+    ]
+  },
+  {
+    "candidate_id": "CND031",
+    "name": "Pooja Choudhary",
+    "skills": [
+      "A/B Testing",
+      "Keras",
+      "Mathematics",
+      "Agile",
+      "SQL"
+    ],
+    "experience_years": 1,
+    "education": "MBA Tech",
+    "certifications": [
+      "Microsoft Azure Fundamentals",
+      "Coursera ML Specialization"
+    ],
+    "projects": [
+      "Built price prediction model for used cars"
+    ]
+  },
+  {
+    "candidate_id": "CND023",
+    "name": "Sneha Iyer",
+    "skills": [
+      "Docker",
+      "Tableau",
+      "C++",
+      "Looker",
+      "Java",
+      "Mathematics",
+      "Agile",
+      "Django",
+      "Python"
+    ],
+    "experience_years": 3,
+    "education": "B.Tech IT",
+    "certifications": [
+      "AWS Cloud Practitioner"
+    ],
+    "projects": [
+      "Developed chatbot using Rasa and Python",
+      "Designed ETL pipeline for e-commerce data",
+      "Created sales dashboard using Power BI"
+    ]
+  },
+  {
+    "candidate_id": "CND013",
+    "name": "Lavanya Krishnan",
+    "skills": [
+      "Airflow",
+      "Communication",
+      "Docker",
+      "Selenium",
+      "Python",
+      "SQL"
+    ],
+    "experience_years": 1,
+    "education": "MCA",
+    "certifications": [
+      "Deep Learning AI",
+      "AWS Cloud Practitioner"
+    ],
+    "projects": [
+      "Created sales dashboard using Power BI"
+    ]
+  },
+  {
+    "candidate_id": "CND032",
+    "name": "Nikhil Gupta",
+    "skills": [
+      "Git",
+      "TensorFlow",
+      "Django",
+      "A/B Testing",
+      "Research Writing",
+      "Transformers",
+      "MATLAB",
+      "SQL"
+    ],
+    "experience_years": 0,
+    "education": "B.Tech IT",
+    "certifications": [],
+    "projects": [
+      "Developed chatbot using Rasa and Python"
+    ]
+  },
+  {
+    "candidate_id": "CND015",
+    "name": "Swati Desai",
+    "skills": [
+      "Power BI",
+      "Python",
+      "SQL",
+      "PostgreSQL",
+      "Agile"
+    ],
+    "experience_years": 2,
+    "education": "B.Sc CS",
+    "certifications": [],
+    "projects": [
+      "Created sales dashboard using Power BI",
+      "Performed sentiment analysis on Twitter data"
+    ]
+  },
+  {
+    "candidate_id": "CND043",
+    "name": "Sneha Iyer",
+    "skills": [
+      "Excel",
+      "MATLAB",
+      "Selenium",
+      "PostgreSQL",
+      "Research Writing"
+    ],
+    "experience_years": 3,
+    "education": "B.Tech IT",
+    "certifications": [
+      "AWS Cloud Practitioner",
+      "Deep Learning AI"
+    ],
+    "projects": [
+      "Performed sentiment analysis on Twitter data"
+    ]
+  },
+  {
+    "candidate_id": "CND011",
+    "name": "Pooja Choudhary",
+    "skills": [
+      "Keras",
+      "DAX",
+      "Transformers",
+      "Scikit-learn",
+      "Python",
+      "SQL"
+    ],
+    "experience_years": 3,
+    "education": "MBA Tech",
+    "certifications": [
+      "Coursera ML Specialization"
+    ],
+    "projects": [
+      "Performed sentiment analysis on Twitter data",
+      "Designed ETL pipeline for e-commerce data",
+      "Created sales dashboard using Power BI"
+    ]
+  },
+  {
+    "candidate_id": "CND042",
+    "name": "Rohan Verma",
+    "skills": [
+      "C++",
+      "Excel",
+      "DAX",
+      "AWS",
+      "Docker",
+      "Selenium"
+    ],
+    "experience_years": 3,
+    "education": "B.Tech IT",
+    "certifications": [
+      "SQL for Data Science"
+    ],
+    "projects": [
+      "Automated data extraction from PDFs",
+      "Created sales dashboard using Power BI"
+    ]
+  },
+  {
+    "candidate_id": "CND006",
+    "name": "Vijay Kumar",
+    "skills": [
+      "Airflow",
+      "Research Writing",
+      "PostgreSQL",
+      "MATLAB",
+      "Mathematics",
+      "Python",
+      "SQL"
+    ],
+    "experience_years": 0,
+    "education": "BCA",
+    "certifications": [
+      "AWS Cloud Practitioner",
+      "Google Data Analytics"
+    ],
+    "projects": [
+      "Created sales dashboard using Power BI",
+      "Designed ETL pipeline for e-commerce data"
+    ]
+  },
+  {
+    "candidate_id": "CND040",
+    "name": "Aakash Sharma",
+    "skills": [
+      "Agile",
+      "NLP",
+      "Research Writing",
+      "Git",
+      "Mixpanel",
+      "Docker",
+      "A/B Testing",
+      "Django",
+      "SQL"
+    ],
+    "experience_years": 0,
+    "education": "B.Tech CSE",
+    "certifications": [],
+    "projects": [
+      "Performed sentiment analysis on Twitter data"
+    ]
+  },
+  {
+    "candidate_id": "CND035",
+    "name": "Swati Desai",
+    "skills": [
+      "PyTorch",
+      "Selenium",
+      "MATLAB",
+      "PostgreSQL",
+      "Excel",
+      "TensorFlow",
+      "SQL"
+    ],
+    "experience_years": 1,
+    "education": "MCA",
+    "certifications": [
+      "Microsoft Azure Fundamentals",
+      "Coursera ML Specialization"
+    ],
+    "projects": [
+      "Automated data extraction from PDFs",
+      "Designed ETL pipeline for e-commerce data"
+    ]
+  },
+  {
+    "candidate_id": "CND019",
+    "name": "Riya Das",
+    "skills": [
+      "CI/CD",
+      "MATLAB",
+      "DAX",
+      "Power BI",
+      "Scikit-learn",
+      "Research Writing",
+      "Python"
+    ],
+    "experience_years": 3,
+    "education": "B.Tech CSE",
+    "certifications": [],
+    "projects": [
+      "Performed sentiment analysis on Twitter data",
+      "Designed ETL pipeline for e-commerce data"
+    ]
+  },
+  {
+    "candidate_id": "CND047",
+    "name": "Divya Menon",
+    "skills": [
+      "Transformers",
+      "Power BI",
+      "XGBoost",
+      "Airflow"
+    ],
+    "experience_years": 0,
+    "education": "B.Sc CS",
+    "certifications": [
+      "Deep Learning AI",
+      "SQL for Data Science"
+    ],
+    "projects": [
+      "Built price prediction model for used cars",
+      "Created sales dashboard using Power BI"
+    ]
+  },
+  {
+    "candidate_id": "CND029",
+    "name": "Meera Bose",
+    "skills": [
+      "XGBoost",
+      "C++",
+      "Spark",
+      "Docker",
+      "SQL",
+      "PyTorch"
+    ],
+    "experience_years": 3,
+    "education": "B.Sc CS",
+    "certifications": [],
+    "projects": [
+      "Designed ETL pipeline for e-commerce data",
+      "Performed sentiment analysis on Twitter data",
+      "Automated data extraction from PDFs"
+    ]
+  },
+  {
+    "candidate_id": "CND008",
+    "name": "Arjun Patel",
+    "skills": [
+      "NLP",
+      "Mixpanel",
+      "MATLAB",
+      "Research Writing",
+      "Selenium",
+      "Communication",
+      "AWS",
+      "CI/CD",
+      "Python",
+      "SQL"
+    ],
+    "experience_years": 3,
+    "education": "MCA",
+    "certifications": [
+      "Google Data Analytics"
+    ],
+    "projects": [
+      "Designed ETL pipeline for e-commerce data",
+      "Performed sentiment analysis on Twitter data"
+    ]
+  },
+  {
+    "candidate_id": "CND033",
+    "name": "Lavanya Krishnan",
+    "skills": [
+      "Java",
+      "NLP",
+      "R",
+      "Mathematics",
+      "Power BI",
+      "SQL"
+    ],
+    "experience_years": 1,
+    "education": "B.Tech CSE",
+    "certifications": [],
+    "projects": [
+      "Built price prediction model for used cars"
+    ]
+  },
+  {
+    "candidate_id": "CND044",
+    "name": "Karthik Reddy",
+    "skills": [
+      "Excel",
+      "BigQuery",
+      "PyTorch",
+      "Mixpanel",
+      "MATLAB",
+      "Docker"
+    ],
+    "experience_years": 1,
+    "education": "MCA",
+    "certifications": [],
+    "projects": [
+      "Created sales dashboard using Power BI",
+      "Designed ETL pipeline for e-commerce data"
+    ]
+  },
+  {
+    "candidate_id": "CND034",
+    "name": "Rahul Joshi",
+    "skills": [
+      "Looker",
+      "SQL",
+      "Selenium",
+      "AWS",
+      "TensorFlow",
+      "Mathematics",
+      "DAX",
+      "Keras"
+    ],
+    "experience_years": 2,
+    "education": "B.Sc CS",
+    "certifications": [
+      "Coursera ML Specialization"
+    ],
+    "projects": [
+      "Created sales dashboard using Power BI",
+      "Developed chatbot using Rasa and Python"
+    ]
+  },
+  {
+    "candidate_id": "CND021",
+    "name": "Priya Nair",
+    "skills": [
+      "Agile",
+      "Research Writing",
+      "XGBoost",
+      "R",
+      "Mathematics",
+      "Airflow",
+      "Communication",
+      "Power BI",
+      "Python"
+    ],
+    "experience_years": 3,
+    "education": "BCA",
+    "certifications": [],
+    "projects": [
+      "Developed chatbot using Rasa and Python",
+      "Performed sentiment analysis on Twitter data",
+      "Designed ETL pipeline for e-commerce data"
+    ]
+  },
+  {
+    "candidate_id": "CND002",
+    "name": "Rohan Verma",
+    "skills": [
+      "SQL",
+      "NLP",
+      "Keras",
+      "BigQuery",
+      "Python",
+      "A/B Testing",
+      "DAX",
+      "Looker"
+    ],
+    "experience_years": 0,
+    "education": "MCA",
+    "certifications": [],
+    "projects": [
+      "Developed chatbot using Rasa and Python",
+      "Built price prediction model for used cars",
+      "Automated data extraction from PDFs"
+    ]
+  },
+  {
+    "candidate_id": "CND036",
+    "name": "Aman Malhotra",
+    "skills": [
+      "REST APIs",
+      "C++",
+      "Communication",
+      "Mathematics",
+      "NLP",
+      "SQL"
+    ],
+    "experience_years": 3,
+    "education": "MBA Tech",
+    "certifications": [],
+    "projects": [
+      "Created sales dashboard using Power BI",
+      "Developed chatbot using Rasa and Python",
+      "Designed ETL pipeline for e-commerce data"
+    ]
+  },
+  {
+    "candidate_id": "CND005",
+    "name": "Ananya Singh",
+    "skills": [
+      "Excel",
+      "Mixpanel",
+      "Communication",
+      "XGBoost",
+      "Airflow",
+      "Scikit-learn",
+      "Python",
+      "SQL"
+    ],
+    "experience_years": 3,
+    "education": "MCA",
+    "certifications": [
+      "Coursera ML Specialization",
+      "Microsoft Azure Fundamentals"
+    ],
+    "projects": [
+      "Automated data extraction from PDFs"
+    ]
+  },
+  {
+    "candidate_id": "CND041",
+    "name": "Priya Nair",
+    "skills": [
+      "C++",
+      "Java",
+      "REST APIs",
+      "TensorFlow",
+      "A/B Testing",
+      "MATLAB"
+    ],
+    "experience_years": 3,
+    "education": "B.Tech IT",
+    "certifications": [],
+    "projects": [
+      "Built price prediction model for used cars"
+    ]
+  },
+  {
+    "candidate_id": "CND004",
+    "name": "Karthik Reddy",
+    "skills": [
+      "BigQuery",
+      "Spark",
+      "REST APIs",
+      "PostgreSQL",
+      "Mathematics",
+      "DAX",
+      "Python",
+      "SQL"
+    ],
+    "experience_years": 2,
+    "education": "B.Tech CSE",
+    "certifications": [
+      "Coursera ML Specialization",
+      "Deep Learning AI"
+    ],
+    "projects": [
+      "Developed chatbot using Rasa and Python"
+    ]
+  },
+  {
+    "candidate_id": "CND050",
+    "name": "Siddharth Rao",
+    "skills": [
+      "C++",
+      "Communication",
+      "TensorFlow",
+      "BigQuery",
+      "XGBoost",
+      "Power BI",
+      "Scikit-learn"
+    ],
+    "experience_years": 2,
+    "education": "BCA",
+    "certifications": [
+      "Deep Learning AI"
+    ],
+    "projects": [
+      "Developed chatbot using Rasa and Python"
+    ]
+  },
+  {
+    "candidate_id": "CND048",
+    "name": "Arjun Patel",
+    "skills": [
+      "DAX",
+      "Django",
+      "NLP",
+      "Excel",
+      "BigQuery"
+    ],
+    "experience_years": 0,
+    "education": "MCA",
+    "certifications": [
+      "Google Data Analytics"
+    ],
+    "projects": [
+      "Designed ETL pipeline for e-commerce data",
+      "Created sales dashboard using Power BI",
+      "Performed sentiment analysis on Twitter data"
+    ]
+  },
+  {
+    "candidate_id": "CND018",
+    "name": "Tejas Shah",
+    "skills": [
+      "Mathematics",
+      "DAX",
+      "Communication",
+      "Airflow",
+      "A/B Testing",
+      "Python",
+      "Docker"
+    ],
+    "experience_years": 3,
+    "education": "B.Tech CSE",
+    "certifications": [
+      "Google Data Analytics"
+    ],
+    "projects": [
+      "Automated data extraction from PDFs"
+    ]
+  },
+  {
+    "candidate_id": "CND009",
+    "name": "Meera Bose",
+    "skills": [
+      "Airflow",
+      "Docker",
+      "REST APIs",
+      "Communication",
+      "TensorFlow",
+      "Django",
+      "Excel",
+      "Python",
+      "SQL"
+    ],
+    "experience_years": 0,
+    "education": "B.Tech CSE",
+    "certifications": [
+      "SQL for Data Science"
+    ],
+    "projects": [
+      "Automated data extraction from PDFs",
+      "Created sales dashboard using Power BI"
+    ]
+  },
+  {
+    "candidate_id": "CND037",
+    "name": "Deepika Pillai",
+    "skills": [
+      "Research Writing",
+      "Mathematics",
+      "Power BI",
+      "Transformers",
+      "Selenium",
+      "A/B Testing",
+      "DAX",
+      "SQL"
+    ],
+    "experience_years": 2,
+    "education": "MBA Tech",
+    "certifications": [
+      "Deep Learning AI",
+      "Microsoft Azure Fundamentals"
+    ],
+    "projects": [
+      "Developed chatbot using Rasa and Python",
+      "Built price prediction model for used cars",
+      "Automated data extraction from PDFs"
+    ]
+  },
+  {
+    "candidate_id": "CND014",
+    "name": "Rahul Joshi",
+    "skills": [
+      "Git",
+      "Transformers",
+      "PostgreSQL",
+      "Spark",
+      "Scikit-learn",
+      "Python",
+      "SQL"
+    ],
+    "experience_years": 1,
+    "education": "BCA",
+    "certifications": [
+      "Microsoft Azure Fundamentals"
+    ],
+    "projects": [
+      "Built price prediction model for used cars"
+    ]
+  },
+  {
+    "candidate_id": "CND038",
+    "name": "Tejas Shah",
+    "skills": [
+      "PyTorch",
+      "REST APIs",
+      "CI/CD",
+      "Excel",
+      "AWS",
+      "Java",
+      "Django",
+      "Communication",
+      "SQL"
+    ],
+    "experience_years": 0,
+    "education": "MBA Tech",
+    "certifications": [
+      "AWS Cloud Practitioner"
+    ],
+    "projects": [
+      "Automated data extraction from PDFs",
+      "Designed ETL pipeline for e-commerce data"
+    ]
+  },
+  {
+    "candidate_id": "CND016",
+    "name": "Aman Malhotra",
+    "skills": [
+      "XGBoost",
+      "PostgreSQL",
+      "CI/CD",
+      "Airflow",
+      "Python",
+      "Git"
+    ],
+    "experience_years": 0,
+    "education": "BCA",
+    "certifications": [
+      "Deep Learning AI"
+    ],
+    "projects": [
+      "Automated data extraction from PDFs"
+    ]
+  },
+  {
+    "candidate_id": "CND022",
+    "name": "Rohan Verma",
+    "skills": [
+      "Research Writing",
+      "Mathematics",
+      "Scikit-learn",
+      "PyTorch",
+      "Spark",
+      "CI/CD",
+      "DAX",
+      "Docker",
+      "Python"
+    ],
+    "experience_years": 3,
+    "education": "BCA",
+    "certifications": [],
+    "projects": [
+      "Created sales dashboard using Power BI",
+      "Automated data extraction from PDFs"
+    ]
+  },
+  {
+    "candidate_id": "CND049",
+    "name": "Meera Bose",
+    "skills": [
+      "Power BI",
+      "TensorFlow",
+      "Spark",
+      "Git",
+      "REST APIs",
+      "Airflow"
+    ],
+    "experience_years": 1,
+    "education": "MCA",
+    "certifications": [
+      "Coursera ML Specialization"
+    ],
+    "projects": [
+      "Developed chatbot using Rasa and Python",
+      "Automated data extraction from PDFs"
+    ]
+  },
+  {
+    "candidate_id": "CND028",
+    "name": "Arjun Patel",
+    "skills": [
+      "Git",
+      "Selenium",
+      "Excel",
+      "AWS",
+      "C++",
+      "Python"
+    ],
+    "experience_years": 2,
+    "education": "MBA Tech",
+    "certifications": [],
+    "projects": [
+      "Automated data extraction from PDFs",
+      "Developed chatbot using Rasa and Python",
+      "Designed ETL pipeline for e-commerce data"
+    ]
+  },
+  {
+    "candidate_id": "CND027",
+    "name": "Divya Menon",
+    "skills": [
+      "Docker",
+      "Communication",
+      "Selenium",
+      "Spark",
+      "Agile",
+      "Airflow",
+      "Python"
+    ],
+    "experience_years": 3,
+    "education": "MCA",
+    "certifications": [
+      "Microsoft Azure Fundamentals"
+    ],
+    "projects": [
+      "Automated data extraction from PDFs",
+      "Performed sentiment analysis on Twitter data",
+      "Designed ETL pipeline for e-commerce data"
+    ]
+  },
+  {
+    "candidate_id": "CND025",
+    "name": "Ananya Singh",
+    "skills": [
+      "Scikit-learn",
+      "Transformers",
+      "TensorFlow",
+      "Python",
+      "PyTorch",
+      "AWS",
+      "Airflow"
+    ],
+    "experience_years": 2,
+    "education": "BCA",
+    "certifications": [
+      "Microsoft Azure Fundamentals"
+    ],
+    "projects": [
+      "Built price prediction model for used cars",
+      "Developed chatbot using Rasa and Python"
+    ]
+  },
+  {
+    "candidate_id": "CND012",
+    "name": "Nikhil Gupta",
+    "skills": [
+      "Power BI",
+      "Communication",
+      "Python",
+      "DAX",
+      "Tableau",
+      "Airflow",
+      "SQL"
+    ],
+    "experience_years": 2,
+    "education": "B.Tech CSE",
+    "certifications": [
+      "SQL for Data Science"
+    ],
+    "projects": [
+      "Created sales dashboard using Power BI",
+      "Automated data extraction from PDFs",
+      "Developed chatbot using Rasa and Python"
+    ]
+  },
+  {
+    "candidate_id": "CND007",
+    "name": "Divya Menon",
+    "skills": [
+      "REST APIs",
+      "Excel",
+      "Looker",
+      "Selenium",
+      "C++",
+      "Java",
+      "Python",
+      "SQL"
+    ],
+    "experience_years": 3,
+    "education": "MCA",
+    "certifications": [
+      "SQL for Data Science"
+    ],
+    "projects": [
+      "Developed chatbot using Rasa and Python"
+    ]
+  },
+  {
+    "candidate_id": "CND030",
+    "name": "Siddharth Rao",
+    "skills": [
+      "Agile",
+      "Docker",
+      "Django",
+      "DAX",
+      "PyTorch",
+      "SQL"
+    ],
+    "experience_years": 1,
+    "education": "B.Tech CSE",
+    "certifications": [
+      "Google Data Analytics"
+    ],
+    "projects": [
+      "Performed sentiment analysis on Twitter data",
+      "Designed ETL pipeline for e-commerce data",
+      "Developed chatbot using Rasa and Python"
+    ]
+  }
+]

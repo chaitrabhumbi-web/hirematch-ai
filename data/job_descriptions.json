@@ -1,0 +1,122 @@
+[
+  {
+    "role": "Data Analyst",
+    "required_skills": [
+      "Python",
+      "SQL",
+      "Excel",
+      "Tableau",
+      "Data Cleaning"
+    ],
+    "experience_years": 1,
+    "responsibilities": "Analyse business data, create dashboards, generate weekly reports."
+  },
+  {
+    "role": "ML Engineer",
+    "required_skills": [
+      "Python",
+      "SQL",
+      "Scikit-learn",
+      "TensorFlow",
+      "Model Deployment"
+    ],
+    "experience_years": 2,
+    "responsibilities": "Build and deploy ML models, maintain pipelines, monitor model drift."
+  },
+  {
+    "role": "Backend Developer",
+    "required_skills": [
+      "Python",
+      "SQL",
+      "Django",
+      "REST APIs",
+      "PostgreSQL"
+    ],
+    "experience_years": 2,
+    "responsibilities": "Develop scalable APIs, manage databases, write unit tests."
+  },
+  {
+    "role": "BI Analyst",
+    "required_skills": [
+      "SQL",
+      "Power BI",
+      "Excel",
+      "DAX",
+      "Data Modelling"
+    ],
+    "experience_years": 1,
+    "responsibilities": "Build BI dashboards, write complex SQL queries, support stakeholders."
+  },
+  {
+    "role": "NLP Engineer",
+    "required_skills": [
+      "Python",
+      "NLP",
+      "Transformers",
+      "SQL",
+      "Hugging Face"
+    ],
+    "experience_years": 2,
+    "responsibilities": "Build text classification and summarisation models for product teams."
+  },
+  {
+    "role": "Data Engineer",
+    "required_skills": [
+      "Python",
+      "SQL",
+      "Spark",
+      "Airflow",
+      "AWS"
+    ],
+    "experience_years": 2,
+    "responsibilities": "Design ETL pipelines, manage data warehouses, ensure data quality."
+  },
+  {
+    "role": "Product Analyst",
+    "required_skills": [
+      "SQL",
+      "Excel",
+      "Python",
+      "A/B Testing",
+      "Mixpanel"
+    ],
+    "experience_years": 1,
+    "responsibilities": "Track product KPIs, run experiments, present insights to PMs."
+  },
+  {
+    "role": "AI Research Intern",
+    "required_skills": [
+      "Python",
+      "PyTorch",
+      "Mathematics",
+      "SQL",
+      "Research Writing"
+    ],
+    "experience_years": 0,
+    "responsibilities": "Assist in model research, run experiments, review literature."
+  },
+  {
+    "role": "Cloud Data Analyst",
+    "required_skills": [
+      "SQL",
+      "Python",
+      "BigQuery",
+      "Looker",
+      "Data Studio"
+    ],
+    "experience_years": 1,
+    "responsibilities": "Query cloud data warehouses, build Looker dashboards, write documentation."
+  },
+  {
+    "role": "Automation Engineer",
+    "required_skills": [
+      "Python",
+      "Selenium",
+      "SQL",
+      "REST APIs",
+      "CI/CD"
+    ],
+    "experience_years": 1,
+    "responsibilities": "Automate testing workflows, build bots, integrate with CI/CD pipelines."
+  }
+]
