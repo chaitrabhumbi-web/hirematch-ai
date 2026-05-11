@@ -1,4 +1,7 @@
+streamlit
+pandas
 sentence-transformers
 scikit-learn
 numpy
-streamlit
+pymupdf
+torch
